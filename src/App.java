@@ -42,6 +42,11 @@ public class App {
         //|
 
         //Estructuras de control
+        if (respuesta) {
+            //bloque de codigo si se cumple
+        } else {
+            //bloque de codigo si no se cumple
+        }
 
 
 
